@@ -66,7 +66,7 @@ Ce projet simule la plateforme **matrix** qui facilite l'échange local d'énerg
 ---
 
 ## 🏗 Architecture du Projet
-# 🏢 Jane Energy Dashboard
+# 🏢 Matrix Energy Dashboard
 
 **Dashboard SaaS pour l'autoconsommation solaire collective**  
 *Projet de candidature - Stage Développeur Front-End React/TypeScript*
