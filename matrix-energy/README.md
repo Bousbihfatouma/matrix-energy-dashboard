@@ -1,4 +1,4 @@
-# 🏢 Jane Energy Dashboard
+# 🏢 Matrix Energy Dashboard
 
 **Dashboard SaaS pour l'autoconsommation solaire collective**  
 -  Développeur Front-End React/TypeScript*
